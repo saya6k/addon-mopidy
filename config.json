@@ -1,0 +1,8 @@
+{
+  "name": "Mopidy Addon",
+  "version": "test",
+  "slug": "mopidy",
+  "description": "Description of my add-on",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"]
+}
+
